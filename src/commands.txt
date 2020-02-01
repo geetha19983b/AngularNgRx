@@ -1,0 +1,6 @@
+npm install @ngrx/store
+--to debug the ngrx store time travel
+redux devtools chrome extension
+npm install @ngrx/store-devtools
+
+npm install @ngrx/effects
